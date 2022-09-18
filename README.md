@@ -33,3 +33,8 @@ Lance Canlas
 **Activity 7**
 
 ![](images/Activity7.jpg)
+
+**Activity 8**
+
+![](images/Activity8a.jpg)
+![](images/Activity8b.jpg)
