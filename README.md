@@ -25,3 +25,11 @@ Lance Canlas
 ![](images/Activity5b.jpg)
 ![](images/Activity5c.jpg)
 ![](images/Activity5d.jpg)
+
+**Activity 6**
+
+[Lance's EP repo](https://github.com/canlasla/ECE444-F2022-EP)
+
+**Activity 7**
+
+![](images/Activity7.jpg)
