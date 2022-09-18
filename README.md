@@ -18,3 +18,10 @@ Lance Canlas
 ![](images/Activity4_sean.jpg)
 
 ![](images/Activity4_lance.jpg)
+
+**Activity 5**
+
+![](images/Activity5a.jpg)
+![](images/Activity5b.jpg)
+![](images/Activity5c.jpg)
+![](images/Activity5d.jpg)
