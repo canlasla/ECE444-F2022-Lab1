@@ -21,6 +21,8 @@ Lance Canlas
 
 **Activity 5**
 
+So i realized i actually rebased the branch "develop" into the branch "rebase" initially. I fixed it afterwards, so the screenshots (Activity5a..d.jpg) are incorrect. I fixed it by rebasing the commits c4, c3, c1, c2 from the rebase branch into the develop branch. I could not include a screen shot of that though, my terminal history got wiped. Hope that makes sense.
+
 ![](images/Activity5a.jpg)
 ![](images/Activity5b.jpg)
 ![](images/Activity5c.jpg)
